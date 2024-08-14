@@ -1,0 +1,1 @@
+My talk from [posit::conf(2024)](https://posit.co/conference/) in the [Data Science Case Studies](https://reg.conf.posit.co/flow/posit/positconf24/publiccatalog/page/publiccatalog/session/1711986820020001vWw8) session.
